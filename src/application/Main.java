@@ -1,5 +1,6 @@
 package application;
 
+import boardGame.Board;
 import boardGame.Position;
 
 public class Main {
@@ -7,7 +8,8 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        Position p = new Position(5, 5);
-        p.toString();
+
+        Board board = new Board(8, 8);
+        
     }
 }
