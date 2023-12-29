@@ -19,7 +19,8 @@ public class Main {
         ChessMatch chessMatch = new ChessMatch();
         while (true) {
             try{
-                UI.printBoard(chessMatch.getPieces());
+                UI.clearScreen();
+                UI.printMatch(chessMatch);
 
                 System.out.println();
                 System.out.print("Source: ");
