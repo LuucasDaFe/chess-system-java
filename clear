@@ -1,0 +1,72 @@
+[33mcommit 79a734ca0a45f3a99a5e6574dbcf91048f626588[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Lucas Abraao <Labraao957@gmail.com>
+Date:   Thu Dec 28 20:56:22 2023 -0300
+
+    created or movement for rock
+
+[33mcommit 0ed61e9988dd7e94e411a8f60400b558e2e660e0[m
+Author: Lucas Abraao <Labraao957@gmail.com>
+Date:   Thu Dec 28 16:00:47 2023 -0300
+
+    Possible moves of a piece
+
+[33mcommit f26a604ab23a4ddbc21bd19d541309e839b2d750[m
+Author: Lucas Abraao <Labraao957@gmail.com>
+Date:   Thu Dec 28 15:29:42 2023 -0300
+
+    Handlin exceptions and clearing screen
+
+[33mcommit f7e5c8f393dc5d80e75dd24803328f27034fc227[m
+Author: Lucas Abraao <Labraao957@gmail.com>
+Date:   Thu Dec 28 15:15:42 2023 -0300
+
+    Moving pieces
+
+[33mcommit 45fe8100fa1d4610fef2e86db7d351d275b0d72a[m
+Author: Lucas Abraao <Labraao957@gmail.com>
+Date:   Sun Dec 3 19:04:09 2023 -0300
+
+    ChessException and ChessPostion
+
+[33mcommit 5f0a141cebcd3d0b45ff9db5199c665999220b43[m
+Author: Lucas Abraao <Labraao957@gmail.com>
+Date:   Sun Dec 3 18:20:16 2023 -0300
+
+    BoardException and defensive programming
+
+[33mcommit 0b19454766dae57a53383f0a218b3bfd8fa3bac3[m
+Author: Lucas Abraao <Labraao957@gmail.com>
+Date:   Sun Dec 3 17:46:45 2023 -0300
+
+    First package: pieces
+
+[33mcommit e145168cb44f3d1c2f0ac1b8985baa7ada3b9af9[m
+Author: Lucas Abraao <Labraao957@gmail.com>
+Date:   Sun Dec 3 10:27:41 2023 -0300
+
+    First package: chess
+
+[33mcommit 0d5d5f80ae5c78e72eee4957d961e41785a47ca7[m
+Author: Lucas Abraao <Labraao957@gmail.com>
+Date:   Sun Dec 3 08:53:29 2023 -0300
+
+    First class: Board and Piece
+
+[33mcommit 8c35f0cd47bf8aeef2526689d692426945eaddb2[m
+Merge: 7dbde1d 8452595
+Author: Lucas Abraao <Labraao957@gmail.com>
+Date:   Sat Dec 2 22:30:55 2023 -0300
+
+    First class: Position
+
+[33mcommit 7dbde1dca1102f942d03cea1ae0105a44fe440cd[m
+Author: Lucas Abraao <Labraao957@gmail.com>
+Date:   Sat Dec 2 21:03:25 2023 -0300
+
+    Init projetc chess-system
+
+[33mcommit 84525959a6e32f51e3a2bcc06e5fff731b4499f5[m
+Author: Lucas Abraão <106312525+LuucasDaFe@users.noreply.github.com>
+Date:   Sat Dec 2 20:58:43 2023 -0300
+
+    Initial commit
